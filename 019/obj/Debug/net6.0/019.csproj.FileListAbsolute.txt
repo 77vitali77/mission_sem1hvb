@@ -1,0 +1,15 @@
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\019\obj\Debug\net6.0\019.csproj.AssemblyReference.cache
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\019\obj\Debug\net6.0\019.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\019\obj\Debug\net6.0\019.AssemblyInfoInputs.cache
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\019\obj\Debug\net6.0\019.AssemblyInfo.cs
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\019\obj\Debug\net6.0\019.csproj.CoreCompileInputs.cache
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\019\bin\Debug\net6.0\019.exe
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\019\bin\Debug\net6.0\019.deps.json
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\019\bin\Debug\net6.0\019.runtimeconfig.json
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\019\bin\Debug\net6.0\019.dll
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\019\bin\Debug\net6.0\019.pdb
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\019\obj\Debug\net6.0\019.dll
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\019\obj\Debug\net6.0\refint\019.dll
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\019\obj\Debug\net6.0\019.pdb
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\019\obj\Debug\net6.0\019.genruntimeconfig.cache
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\019\obj\Debug\net6.0\ref\019.dll
