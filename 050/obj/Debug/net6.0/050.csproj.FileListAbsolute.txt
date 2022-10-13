@@ -1,0 +1,15 @@
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\050\bin\Debug\net6.0\050.exe
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\050\bin\Debug\net6.0\050.deps.json
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\050\bin\Debug\net6.0\050.runtimeconfig.json
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\050\bin\Debug\net6.0\050.dll
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\050\bin\Debug\net6.0\050.pdb
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\050\obj\Debug\net6.0\050.csproj.AssemblyReference.cache
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\050\obj\Debug\net6.0\050.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\050\obj\Debug\net6.0\050.AssemblyInfoInputs.cache
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\050\obj\Debug\net6.0\050.AssemblyInfo.cs
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\050\obj\Debug\net6.0\050.csproj.CoreCompileInputs.cache
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\050\obj\Debug\net6.0\050.dll
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\050\obj\Debug\net6.0\refint\050.dll
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\050\obj\Debug\net6.0\050.pdb
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\050\obj\Debug\net6.0\050.genruntimeconfig.cache
+D:\учеба\Знакомство с языками программирования (лекции)\Д.З. сем.1\mission_sem1hvb\050\obj\Debug\net6.0\ref\050.dll
